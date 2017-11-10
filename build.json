@@ -1,0 +1,5 @@
+{
+  "exec": [
+    "rm -rvf LICENSE"
+  ]
+}
