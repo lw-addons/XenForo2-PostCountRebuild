@@ -8,7 +8,7 @@ class RebuildPostCounts extends AbstractRebuildCommand
 {
 	protected function getRebuildName()
 	{
-		return 'user-post-counts';
+		return 'liamw-postcountrebuild-user-post-counts';
 	}
 
 	protected function getRebuildDescription()

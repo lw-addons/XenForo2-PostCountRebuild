@@ -1,14 +1,16 @@
 {
     "legacy_addon_id": "liam_postCountRebuild",
     "title": "Post Count Rebuild",
-    "description": "",
+    "description": "Adds a system to rebuild all user's post counts based on current post count rules.",
     "version_id": 2000170,
     "version_string": "2.0.1",
-    "dev": "",
-    "dev_url": "",
+    "dev": "Liam Williams",
+    "dev_url": "https://lw-addons.net",
     "faq_url": "",
-    "support_url": "",
-    "extra_urls": [],
+    "support_url": "https://xenforo.com/community/threads/post-count-rebuild.137039/",
+    "extra_urls": {
+        "Contribute on GitHub": "https://github.com/lw-addons/XenForo2-PostCountRebuild"
+    },
     "require": [],
-    "icon": ""
+    "icon": "liam_logo.png"
 }

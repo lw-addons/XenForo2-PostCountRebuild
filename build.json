@@ -1,5 +1,5 @@
 {
   "exec": [
-    "rm -rf ./_build/upload/src/addons/LiamW/PostCountRebuild/LICENSE"
+    "mv _build/upload/{addOnDir}/LICENSE _build/"
   ]
 }
